@@ -1,0 +1,39 @@
+header {
+  background-color: #fff;
+  color: #000;
+}
+
+.intro-text hr {
+  border-color: #000;
+}
+
+.navbar-toggle {
+  margin-top: 18px;
+}
+
+hr.star-light:after, hr.star-primary:after {
+  content: none;
+}
+
+.navbar-right {
+  margin-top: 10px;
+}
+
+.stagecast-logo {
+  width: 200px;
+}
+
+.production {
+  background-color: #e51c20;
+  color: #fff;
+}
+
+.platform {
+  background-color: #3aaa35;
+  color: #fff;
+}
+
+.consultancy {
+  background-color: #2daae1;
+  color: #fff;
+}
